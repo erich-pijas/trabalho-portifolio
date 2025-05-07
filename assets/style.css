@@ -1,0 +1,39 @@
+body{
+    margin: 0px;
+}
+
+.titulo{
+    padding-bottom: 25px;
+    padding-top: 25px;
+    background-color: rgb(143, 93, 0);
+    color: aliceblue;
+    text-align: center;
+}
+
+.ovidio img{
+    margin-left: 35%;
+    border: 1px solid black;
+    border-radius: 50%;
+}
+#ovidiotitulo{
+    text-align: center;
+}
+
+.textos{
+    margin: 30px;
+}
+
+#primeirafrase{
+    
+    font-size: 30px;
+}
+
+.titulos{
+
+    color:  rgb(143, 93, 0);
+}
+
+.subtextos{
+    margin: 50px;
+    font-size: 20px;
+}
