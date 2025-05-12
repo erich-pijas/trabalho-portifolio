@@ -37,3 +37,10 @@ body{
     margin: 50px;
     font-size: 20px;
 }
+
+.rodape{
+    padding-bottom: 25px;
+    padding-top: 25px;
+    background-color: rgb(143, 93, 0);
+    color: aliceblue;
+}
